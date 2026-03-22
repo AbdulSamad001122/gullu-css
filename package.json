@@ -1,0 +1,19 @@
+{
+  "name": "gullu-css",
+  "version": "1.0.4",
+  "description": "A zero-build, ultra-fast runtime utility CSS engine.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "utility",
+    "runtime",
+    "engine",
+    "tailwind-alternative"
+  ],
+  "author": "Abdul Samad",
+  "license": "MIT"
+}
