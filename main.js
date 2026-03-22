@@ -27,5 +27,5 @@ export function initEngine() {
     });
   });
 
-  console.log("🚀 Custom Utility Engine (Single-Pass) Initialized");
+  console.log("Gullu CSS Initialized");
 }

@@ -4,7 +4,7 @@ A blazing-fast, **zero-build** runtime utility CSS engine.
 
 Instead of waiting for Webpack or Vite to compile hundreds of gigabytes of node modules, **Gullu CSS Engine operates entirely in the browser at runtime**. By leveraging modern browser JavaScript, Gullu CSS reads your utility classes natively and injects styles dynamically. No complicated configurations. No PostCSS process. Just instantly applied styles.
 
-📖 **[Browse Full Class Reference & Docs →](https://gullu-css.netlify.app/)**
+📖 **[Browse Full Class Reference & Docs →](https://gullucss-docs.netlify.app/)**
 
 ## 🚀 Features
 - **Zero Build Step:** Runs 100% in browser JS. No build pipelines.
